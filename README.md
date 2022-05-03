@@ -1,9 +1,9 @@
-### Olivia Hellweg 
+##### Olivia Hellweg 
 <p>
   I am from Cedar Rapids, Iowa.
   </p>
  <p>
-  I am moving to Denver, Colorado to start my first job as an Account Executive at Brooksource.
+  You can contact me at ohellweg@gmail.com
   </p>
 <!--
 **oliviahellweg/oliviahellweg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
